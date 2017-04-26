@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "657082915767",
+    "firebase_url": "https://fir-notificationtest-436f2.firebaseio.com",
+    "project_id": "fir-notificationtest-436f2",
+    "storage_bucket": "fir-notificationtest-436f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657082915767:android:4c4415b949fa62b1",
+        "android_client_info": {
+          "package_name": "com.example.anatolii.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657082915767-hebjce4aveo1hv5dvdom29fu1cspu2hn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt4DoHst2r82b__fFw1PJvH72_HE4191k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
